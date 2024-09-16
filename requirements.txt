@@ -1,9 +1,1 @@
-flask
-uvicorn
-colorama
 rsa
-python-dotenv
-requests
-mysql-connector-python
-pandas
-numpy
