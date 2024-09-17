@@ -1,1 +1,7 @@
 rsa
+xmpppy
+numpy
+python-dotenv
+
+mysql-connector-python
+
