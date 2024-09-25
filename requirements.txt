@@ -2,6 +2,6 @@ rsa
 xmpppy
 numpy
 python-dotenv
-
+fastapi
 mysql-connector-python
 
